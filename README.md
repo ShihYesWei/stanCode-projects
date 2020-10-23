@@ -17,3 +17,12 @@ Watch the [demo video](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
 
 - [Pedestrian_removing_application](https://github.com/ShihYesWei/stanCode-projects/blob/main/stanCode_projects/Pedestrian_removing_application/stanCodoshop.py)
   - image processing
+
+- [Break_out_game](https://github.com/ShihYesWei/stanCode-projects/blob/main/stanCode_projects/break_out_game/breakout.py)
+  - object orientated programming & animation & game designing 
+  
+- [Name_popularity_searching_system](https://github.com/ShihYesWei/stanCode-projects/blob/main/stanCode_projects/name_searching_system/babygraphics.py)
+  - data structure
+  
+- [Boggle_Game_searcher](https://github.com/ShihYesWei/stanCode-projects/blob/main/stanCode_projects/boggle_game_solver/boggle.py)
+  - recursive functions
